@@ -1,2 +1,1 @@
-Hello This is first file-- adding some changes
-This is next line changes in b1 branch
+This is new a1 file from branch b1 . All the data from a1 is moved to a2 --changing this b1 branch
